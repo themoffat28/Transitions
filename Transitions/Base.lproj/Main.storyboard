@@ -21,6 +21,7 @@
                                 <rect key="frame" x="253" y="285" width="105" height="30"/>
                                 <state key="normal" title="Change Screen"/>
                                 <connections>
+                                    <action selector="switchScreenToUpdated:" destination="BYZ-38-t0r" eventType="touchUpInside" id="M6K-nD-GCI"/>
                                     <segue destination="j6x-nO-Mvj" kind="show" identifier="toUpdated" id="Hqd-fR-pRy"/>
                                 </connections>
                             </button>
